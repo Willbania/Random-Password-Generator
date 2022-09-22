@@ -43,3 +43,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+## Links
+![Deployed Application.](https://willbania.github.io/Random-Password-Generator/)
+![Repository Link.](https://github.com/Willbania/Random-Password-Generator)
