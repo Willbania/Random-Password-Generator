@@ -45,5 +45,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Links
+```
 Deployed Application [here](https://willbania.github.io/Random-Password-Generator/)
 Repository Link [here](https://github.com/Willbania/Random-Password-Generator)
+```
